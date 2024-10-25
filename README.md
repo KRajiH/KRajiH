@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KRajiH
+- 👀 I’m interested in Web and App development.
+- 🌱 I’m currently learning Python
+- 💞️  I’m looking to collaborate on small projects or beginner-friendly tasks as I’m still in the learning phase.
+- 📫 How to reach me [helloji@duck.com - my privet Email]
+- ⚡Fun Fact: Whenever I learn something new, I like to share it with others.
